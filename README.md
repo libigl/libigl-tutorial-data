@@ -81,4 +81,3 @@ use is listed.
 [#sorkine_2004]: Olga Sorkine, Daniel Cohen-Or, [Least-squares
   Meshes](https://www.google.com/search?q=Least+squares+meshes), 2004.
 [#stanford]: The Stanford 3D Scanning Repository, http://graphics.stanford.edu/data/3Dscanrep/
-# libigl-tutorial-data
